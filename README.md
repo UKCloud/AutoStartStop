@@ -1,7 +1,7 @@
 # Automatically Start & Stop VMs
 These scripts are examples of how you can make use of VMWare PowerCLI to set up a timed schedule for automatically starting and stopping vApps or VMs in vCloud Director.
 
-These examples are fully documented in [Blueprint uck-gen-339](https://portal.skyscapecloud.com/support/knowledge_centre/7212f4f1-32b8-4cdd-998f-2cdc95f31bcd) in the UKCloud Knowledge Centre available through the Portal.
+These examples are fully documented in [Blueprint uck-gen-339](https://ukcloud.com/wp-content/uploads/2018/08/ukcloud_blueprint_ukc-gen-339_manipulating-power-states-with-powercli.pdf) on the UKCloud web site.
 
 These example scripts have been written to leverage the use of metadata properties that can be set against either a vApp, or each individual VM. There are two sets of scripts provided to demonstrate this functionality.
 
